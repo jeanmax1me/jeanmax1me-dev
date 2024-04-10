@@ -13,7 +13,7 @@ const About: React.FC<{}> = () => {
           EXPLORE NOW
         </p>
         <p className="text-gray-300 text-center ">
-          As a passionate developer, I thrive on the intricate dance
+          As a developer, I thrive on the intricate dance
           between logic and creativity. Currently immersed in the world
           of JavaScript, my expertise centers around React and Next.js, where I seamlessly
           blend technology with innovation.

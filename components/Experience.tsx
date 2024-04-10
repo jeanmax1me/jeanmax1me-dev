@@ -12,9 +12,9 @@ const Experience: React.FC<{}> = () => {
       <div className=" container mx-auto 2xl ">
         <div className="flex  flex-row justify-between pt-5">
           <p className="text-gray-300 ">
-            <span className="font-semibold">Self-taught /</span> Developer
+            <span className="font-semibold">React Applications /</span> Developer
           </p>
-          <p className="text-gray-300">2020 - PRESENT, CANNES</p>
+          <p className="text-gray-300">2023 - PRESENT, CANNES</p>
         </div>
         <p className="text-gray-300 pt-5">
           After discovering FreeCodeCamp and finishing their courses, I found a
