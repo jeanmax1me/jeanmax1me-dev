@@ -19,10 +19,10 @@ const Navbar: React.FC<{}> = () => {
             Contact
           </div>
           <a
-            href="/fr"
+            href="/"
             className="padding-10 z-[1] flex h-auto w-auto cursor-pointer flex-row  items-center rounded-xl bg-black bg-transparent px-5  py-2  text-white hover:bg-[#2E2E2E]"
           >
-            <p>FR</p>
+            <p>EN</p>
           </a>
         </div>
       </div>

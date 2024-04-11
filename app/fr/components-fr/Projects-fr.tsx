@@ -1,14 +1,14 @@
 import React from "react";
-import Booki from "./cards/booki";
-import Fisheye from "./cards/fisheye";
-import Kasa from "./cards/kasa";
-import Ohmyfood from "./cards/ohmyfood";
-import Canneshotel from "./cards/canneshotel";
-import Dashboard from "./cards/dashboard";
-import Ecommerce from "./cards/ecommerce";
-import Lespetitsplats from "./cards/lespetitsplats";
-import Tase from "./cards/tase";
-import Zephyra from "./cards/zephyra";
+import Booki from "@/components/cards/booki";
+import Fisheye from "@/components/cards/fisheye";
+import Kasa from "@/components/cards/kasa";
+import Ohmyfood from "@/components/cards/ohmyfood";
+import Canneshotel from "@/components/cards/canneshotel";
+import Dashboard from "@/components/cards/dashboard";
+import Ecommerce from "@/components/cards/ecommerce";
+import Lespetitsplats from "@/components/cards/lespetitsplats";
+import Tase from "@/components/cards/tase";
+import Zephyra from "@/components/cards/zephyra";
 
 const Projects: React.FC<{}> = () => {
   return (

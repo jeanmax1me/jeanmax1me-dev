@@ -1,12 +1,13 @@
-import About from "@/components/About";
-import Banner from "@/components/Banner";
-import Experience from "@/components/Experience";
-import Footer from "@/components/Footer";
-import Projects from "@/components/Projects";
+import React from "react";
+import About from "./components-fr/About-fr";
+import Banner from "./components-fr/Banner-fr";
+import Experience from "./components-fr/Experience-fr";
 import StarsCanvas from "@/components/main/StarsBackground";
-import Navbar from "@/components/Navbar";
+import Navbar from "./components-fr/Navbar-fr";
+import Projects from "./components-fr/Projects-fr";
+import Footer from "@/components/Footer";
 
-export default function Home() {
+export default function page() {
   return (
     <main className="h-full w-full  bg-[url('/LooperGroup2.png')] bg-no-repeat">
       <div className="flex flex-col gap-20">
