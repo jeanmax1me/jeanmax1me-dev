@@ -17,9 +17,11 @@ const Experience: React.FC<{}> = () => {
           <p className="text-gray-300">2023 - PRESENT, CANNES</p>
         </div>
         <p className="text-gray-300 pt-5">
-        Après avoir découvert FreeCodeCamp et terminé leurs cours, j&apos;ai développé une passion pour la programmation et j&apos;ai commencé à créer des composants, des landing pages, du contenu de marketing d&apos;affiliation, des outils de scraping web, des applications full-stack et plus encore. J&apos;ai de solides bases dans la création d&apos;applications web dynamiques et responsives.
+        Après avoir découvert FreeCodeCamp et terminé leurs cours, j&apos;ai développé une passion pour la programmation et j&apos;ai commencé à créer des composants, des landing pages, du contenu de marketing d&apos;affiliation, des outils de scraping web, des applications et plus encore. J&apos;ai ensuite suivi une formation en développement JavaScript React à OpenClassrooms, ce qui m&apos;a permis d&apos;améliorer mes compétences et d&apos;acquérir de solides bases dans la création d&apos;applications web dynamiques et responsives.
           <br />
-          <br />Ensuite, j&apos;ai suivi un Bachelor en développement de logiciels JavaScript à OpenClassrooms, ce qui m&apos;a permis d&apos;améliorer mes compétences en React.js pour créer des pages web rapides, évolutives et dynamiques offrant d&apos;excellentes expériences utilisateurs. Je possède une compréhension approfondie de l&apos;architecture basée sur les composants et de la gestion du state, et je maîtrise les dernières tendances et technologies du développement web.
+          <br /> Je possède désormais une compréhension approfondie du React moderne, des hooks, du contexte, des composants fonctionnels. Je maîtrise la logique de JavaScript et TypeScript, ainsi que bien évidemment HTML et CSS pour créer des composants webs et des layouts. 
+          <br />
+          <br /> J&apos;ai aussi déjà utilisé Jest pour faire du testing. Redux, Zustand pour la gestion du state. Je sais aussi optimiser la vitesse de chargement des pages, et améliorer les classements SEO. Ma communication est claire, attentive et précise aussi bien en français qu&apos;en anglais.
         </p>
         <div className="flex-col flex sm:flex-row ">
           <div className="bg-transparent  mt-5 mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">

@@ -12,10 +12,10 @@ const About: React.FC<{}> = () => {
           EXPLOREZ MAINTENANT
         </p>
         <p className="text-gray-300 text-center ">
-          En tant que développeur, Je mélange la logique et la créativité. Actuellement immergé dans l&apos;univers de JavaScript, mon expertise se concentre sur React et Next.js, où je marie technologie et innovation en toute fluidité.
+          En tant que développeur, J&apos;aime trouver des solutions pratiques et efficaces. Je suis très attentif aux attentes des clients, et cherche toujours des solutions adaptées à vos besoins.
           <br />
           <br />
-          Animé par une passion pour la création de solutions élégantes, je navigue dans le paysage en constante évolution du développement logiciel. Mon parcours consiste à traduire des concepts en code, à créer des expériences utilisateurs fluides et à adapter mes solutions aux besoins des clients.
+          Animé par une passion pour la création de solutions élégantes, mon objectif consiste à traduire vos idées en code rapide et fiable, et à créer des expériences utilisateurs fluides et agréables.
         </p>
       </div>
     </section>
