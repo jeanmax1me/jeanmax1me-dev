@@ -17,7 +17,10 @@ const Experience: React.FC<{}> = () => {
           <p className="text-gray-300">2023 - PRESENT, CANNES</p>
         </div>
         <p className="text-gray-300 pt-5">
-        Après avoir découvert FreeCodeCamp et terminé leurs cours, j&apos;ai développé une passion pour la programmation et j&apos;ai commencé à créer des composants, des landing pages, du contenu de marketing d&apos;affiliation, des outils de scraping web, des applications et plus encore. J&apos;ai ensuite suivi une formation en développement JavaScript React à OpenClassrooms, ce qui m&apos;a permis d&apos;améliorer mes compétences et d&apos;acquérir de solides bases dans la création d&apos;applications web dynamiques et responsives.
+        Après avoir découvert FreeCodeCamp et terminé leurs cours, j&apos;ai développé une passion pour la programmation et j&apos;ai commencé à créer des composants, des landing pages, du contenu de marketing d&apos;affiliation, des outils de scraping web, des applications et plus encore.
+        <br />
+        <br />
+         J&apos;ai ensuite suivi une formation en développement JavaScript React à OpenClassrooms, ce qui m&apos;a permis d&apos;améliorer mes compétences et d&apos;acquérir de solides bases dans la création d&apos;applications web dynamiques et responsives.
           <br />
           <br /> Je possède désormais une compréhension approfondie du React moderne, des hooks, du contexte, des composants fonctionnels. Je maîtrise la logique de JavaScript et TypeScript, ainsi que bien évidemment HTML et CSS pour créer des composants webs et des layouts. 
           <br />
