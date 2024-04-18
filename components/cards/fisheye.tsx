@@ -14,7 +14,7 @@ import nodejs from "@/app/images/nodejs.svg";
 export default function Fisheye() {
     return (
         <CardContainer className="inter-var">
-          <CardBody className="relative group/card  hover:shadow-2xl hover:shadow-emerald-500/[0.1] bg-black/40 border-white/[0.2]  w-auto sm:w-[30rem] h-auto rounded-xl p-6 border  ">
+          <CardBody className="relative group/card  hover:shadow-2xl hover:shadow-emerald-500/[0.1] bg-black/40 border-white/[0.2]  h-auto rounded-xl p-6 border  ">
             <CardItem translateZ="50" className="text-xl font-bold text-white">
               FishEye
             </CardItem>
@@ -30,7 +30,7 @@ export default function Fisheye() {
                 src={fisheye}
                 height="1000"
                 width="1000"
-                className="h-60 w-full object-cover rounded-xl group-hover/card:shadow-xl"
+                className="h-40 w-full object-cover rounded-xl group-hover/card:shadow-xl"
                 alt="thumbnail"
               />
             </CardItem>

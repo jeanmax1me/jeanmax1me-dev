@@ -16,11 +16,11 @@ const Projects: React.FC<{}> = () => {
       <h1 className="pt-[35px] text-center text-6xl font-semibold text-white">
         PROJECTS
       </h1>
-      <p className=" text-1xl bg-gradient-to-r from-purple-700 to-orange-500 bg-clip-text  pb-5 text-center font-light tracking-[0.5em]  text-transparent ">
-        EXPLOREZ MAINTENANT
+      <p className=" text-1xl bg-gradient-to-r from-purple-700 to-orange-500  bg-clip-text pb-16 pt-2 text-center  font-semibold tracking-[0.5em] text-transparent ">
+        EXPLORE NOW
       </p>
-      <div className="mx-auto mt-7 max-w-[1100px]">
-        <div className="mx-auto flex flex-wrap justify-between gap-10 px-10">
+      <div className="pt-24 pb-16">
+        <div className="grid grid-cols-2 gap-8 max-w-5xl mx-auto px-20">
           <Booki />
           <Fisheye />
           <Kasa />

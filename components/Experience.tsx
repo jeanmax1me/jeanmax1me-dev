@@ -3,20 +3,21 @@ import React from "react";
 const Experience: React.FC<{}> = () => {
   return (
     <section id="experience">
-      <h1 className="text-white font-semibold text-center text-6xl   pt-[35px]">
+      <h1 className="pt-[35px] text-center text-6xl font-semibold   text-white">
         EXPERIENCE
       </h1>
-      <p className=" tracking-[0.5em] text-center text-transparent font-light pb-5  bg-clip-text bg-gradient-to-r from-purple-700 to-orange-500  text-1xl ">
+      <p className=" tracking-[0.5em] text-transparent font-semibold bg-clip-text bg-gradient-to-r from-purple-700 to-orange-500  text-1xl pb-24 pt-2 text-center">
         EXPLORE NOW
       </p>
-      <div className=" container mx-auto 2xl ">
+      <div className=" 2xl container mx-auto ">
         <div className="flex  flex-row justify-between pt-5">
-          <p className="text-gray-300 ">
-            <span className="font-semibold">React Applications /</span> Developer
+          <p className="text-gray-300 text-xl font-semibold">
+           React Applications 
+            Developer
           </p>
           <p className="text-gray-300">2023 - PRESENT, CANNES</p>
         </div>
-        <p className="text-gray-300 pt-5">
+        <p className="pt-5 text-gray-300 tracking-wider [word-spacing:0.16rem]">
           After discovering FreeCodeCamp and finishing their courses, I found a
           passion for programming and started creating components, landing
           pages, affiliation marketing content, web scraping tools, full-stack
@@ -30,17 +31,17 @@ const Experience: React.FC<{}> = () => {
           architecture and state management, and I am well-versed in the latest
           web development trends and technologies.
         </p>
-        <div className="flex-col flex sm:flex-row ">
-          <div className="bg-transparent  mt-5 mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
+        <div className="flex flex-col sm:flex-row pt-8">
+          <div className="mr-2  mt-5 w-max cursor-pointer  rounded-3xl  border border-[#2E2E2E] bg-transparent  px-5 py-2 text-white">
             React
           </div>
-          <div className="bg-transparent  mt-5  mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
+          <div className="mr-2  mt-5  w-max cursor-pointer  rounded-3xl  border border-[#2E2E2E] bg-transparent  px-5 py-2 text-white">
             JavaScript
           </div>
-          <div className="bg-transparent  mt-5 mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
+          <div className="mr-2  mt-5 w-max cursor-pointer  rounded-3xl  border border-[#2E2E2E] bg-transparent  px-5 py-2 text-white">
             Typescript
           </div>
-          <div className="bg-transparent  mt-5 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
+          <div className="mt-5  w-max cursor-pointer  rounded-3xl  border border-[#2E2E2E] bg-transparent  px-5 py-2 text-white">
             Next.js
           </div>
         </div>

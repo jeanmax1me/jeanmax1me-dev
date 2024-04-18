@@ -11,7 +11,7 @@ import figma from "@/app/images/figma.svg";
 export default function Booki() {
   return (
     <CardContainer className="inter-var">
-      <CardBody className="group/card relative  h-auto w-auto rounded-xl border  border-white/[0.2] bg-black/40 p-6 hover:shadow-2xl hover:shadow-emerald-500/[0.1] sm:w-[30rem]  ">
+      <CardBody className="group/card relative  h-auto w-auto rounded-xl border border-white/[0.2] bg-black/40 p-6 hover:shadow-2xl hover:shadow-emerald-500/[0.1]">
         <CardItem translateZ="50" className="text-xl font-bold text-white">
           Booki
         </CardItem>
@@ -27,7 +27,7 @@ export default function Booki() {
             src={booki}
             height="1000"
             width="1000"
-            className="h-60 w-full rounded-xl object-cover group-hover/card:shadow-xl"
+            className="h-40 w-full rounded-xl object-cover group-hover/card:shadow-xl"
             alt="thumbnail"
           />
         </CardItem>
@@ -42,7 +42,7 @@ export default function Booki() {
             Github →
           </CardItem>
           <CardItem>
-          <div className="flex gap-2 p-2 rounded-lg bg-neutral-900 flex-wrap">
+            <div className="flex flex-wrap gap-2 rounded-lg bg-neutral-900 p-2">
               <Image src={html} width={24} height={24} alt="html logo" />
               <Image src={css} width={24} height={24} alt="css logo" />
               <Image src={figma} width={24} height={24} alt="figma logo" />
