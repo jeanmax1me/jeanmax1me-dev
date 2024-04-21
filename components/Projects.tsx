@@ -19,8 +19,8 @@ const Projects: React.FC<{}> = () => {
       <p className=" text-1xl bg-gradient-to-r from-purple-700 to-orange-500  bg-clip-text pb-16 pt-2 text-center  font-semibold tracking-[0.5em] text-transparent ">
         EXPLORE NOW
       </p>
-      <div className="pt-24 pb-16">
-        <div className="grid grid-cols-2 gap-8 max-w-5xl mx-auto px-20">
+      <div className="pb-16 pt-24">
+        <div className="mx-auto grid max-w-5xl grid-cols-1 gap-8 px-20 lg:grid-cols-2">
           <Booki />
           <Fisheye />
           <Kasa />

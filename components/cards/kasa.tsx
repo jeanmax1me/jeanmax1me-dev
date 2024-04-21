@@ -13,7 +13,7 @@ import react from "@/app/images/react.svg";
 export default function Kasa() {
   return (
     <CardContainer className="inter-var">
-      <CardBody className="group/card relative  h-auto rounded-xl border  border-white/[0.2] bg-black/40 p-6 hover:shadow-2xl hover:shadow-emerald-500/[0.1]  ">
+      <CardBody className="group/card relative  h-auto w-auto rounded-xl border border-white/[0.2] bg-black/40 p-6 hover:shadow-2xl hover:shadow-emerald-500/[0.1]">
         <CardItem translateZ="50" className="text-xl font-bold text-white">
           Kasa
         </CardItem>
