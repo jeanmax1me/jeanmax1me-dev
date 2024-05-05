@@ -24,7 +24,7 @@ const Banner: React.FC<{}> = () => {
           <Image src="/popcorn.gif" height={50} width={50} alt="popcorn" />
         </div>
 
-        <p className="text-lg tracking-widest my-5 max-w-[600px] text-gray-200 pb-20 pt-8 [word-spacing:0.16rem]">
+        <p className="text-lg tracking-wide my-5 max-w-[600px] text-gray-200 pb-20 pt-8 [word-spacing:0.16rem]">
           I&apos;m a passionate JavaScript Developer from France with a focus on
           React.js & Next.js, dedicated to crafting elegant and user-friendly
           webpages.

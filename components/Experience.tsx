@@ -16,7 +16,7 @@ const Experience: React.FC<{}> = () => {
           </p>
           <p className="text-gray-300">2023 - PRESENT, CANNES</p>
         </div>
-        <p className="pt-14 tracking-wider text-gray-300 [word-spacing:0.16rem] text-lg">
+        <p className="pt-14 tracking-wide text-gray-300 [word-spacing:0.16rem] text-medium">
           After discovering FreeCodeCamp and completing their courses, I
           developed a passion for programming and started creating components,
           landing pages, affiliate marketing content, web scraping tools,

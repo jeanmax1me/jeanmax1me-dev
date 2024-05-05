@@ -12,7 +12,7 @@ const About: React.FC<{}> = () => {
         <p className=" text-1xl bg-gradient-to-r from-purple-700 to-orange-500 bg-clip-text pb-24 pt-2  font-semibold tracking-[0.5em] text-transparent">
           EXPLORE NOW
         </p>
-        <p className="text-gray-300 text-center text-lg tracking-wider [word-spacing:0.16rem]">
+        <p className="text-gray-300 text-center text-lg tracking-wide [word-spacing:0.16rem]">
   As a developer, I enjoy finding practical and efficient solutions. I am very attentive to clients&apos; expectations and always seek solutions tailored to your needs.
   <br />
   <br />

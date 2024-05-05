@@ -11,7 +11,7 @@ const About: React.FC<{}> = () => {
         <p className=" tracking-[0.5em] text-transparent font-semibold bg-clip-text bg-gradient-to-r from-purple-700 to-orange-500  text-1xl pb-24 pt-2">
           EXPLOREZ MAINTENANT
         </p>
-        <p className="text-gray-300 text-center text-lg tracking-wider [word-spacing:0.16rem]">
+        <p className="text-gray-300 text-center text-lg tracking-wide [word-spacing:0.16rem]">
           En tant que développeur, j&apos;aime trouver des solutions pratiques et efficaces. Je suis très attentif aux attentes des clients, et cherche toujours des solutions adaptées à vos besoins.
           <br />
           <br />
