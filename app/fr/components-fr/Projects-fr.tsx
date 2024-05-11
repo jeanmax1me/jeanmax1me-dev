@@ -9,6 +9,8 @@ import Ecommerce from "@/components/cards/ecommerce";
 import Lespetitsplats from "@/components/cards/lespetitsplats";
 import Tase from "@/components/cards/tase";
 import Zephyra from "@/components/cards/zephyra";
+import Crontab from "@/components/cards/crontab";
+import Visithome from "@/components/cards/visithome";
 
 const Projects: React.FC<{}> = () => {
   return (
@@ -31,6 +33,8 @@ const Projects: React.FC<{}> = () => {
           <Lespetitsplats />
           <Tase />
           <Zephyra />
+          <Crontab />
+          <Visithome />
         </div>
       </div>
     </section>
